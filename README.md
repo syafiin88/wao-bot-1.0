@@ -1,1 +1,1 @@
-# wao-bot-1.0
+# WAO-BOT 0.1b
